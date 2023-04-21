@@ -1,0 +1,9 @@
+id,MauToc,ChieuCao,CanNang,DungThuoc,KetQua
+1,Den,TamThuoc,Nhe,Khong,BiRam
+2,Den,Cao,VuaPhai,Co,Khong
+3,Ram,Thap,VuaPhai,Co,Khong
+4,Den,Thap,VuaPhai,Khong,BiRam
+5,Bac,TamThuoc,Nang,Khong,BiRam
+6,Ram,Cao,Nang,Khong,Khong
+7,Ram,TamThuoc,Nang,Khong,Khong
+8,Den,Thap,Nhe,Co,Khong
